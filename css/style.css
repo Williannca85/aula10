@@ -1,0 +1,29 @@
+
+header{
+    background-color: rgb(68, 170, 170);
+    color: silver;
+    padding-top:  190px 30px 40px 30px;
+    border: 10px solid blueviolet;
+    border-radius: 30px, 80px, 120px, 150px;
+    height: 400px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1, h2{
+    background-color: rgb(68, 170, 170);
+    padding: 20px, 30px;
+    border-radius: 40px;
+    text-align:center;
+}
+
+button {
+    border-radius: 50px;
+    background-color:rgb(68, 170, 170);
+    padding: 10px 30px;
+    border: black;
+}
+
